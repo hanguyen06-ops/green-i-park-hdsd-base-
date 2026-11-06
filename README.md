@@ -1,4 +1,4 @@
-# HDSD Wework & Account - Green i-Park (bản công khai, không mật khẩu)
+# HDSD Base - Green i-Park (bản công khai, không mật khẩu)
 
 Trang tĩnh gồm 1 file `index.html` (đã nhúng sẵn toàn bộ ảnh) và `vercel.json`.
 Không có `middleware.js`, không cần biến môi trường, không hỏi mật khẩu.
